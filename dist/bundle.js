@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _generateJokes__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./generateJokes */ \"./src/generateJokes.js\");\n\r\nconsole.log((0,_generateJokes__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\n\n//# sourceURL=webpack://webpack-starter/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _generateJokes__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./generateJokes */ \"./src/generateJokes.js\");\nObject(function webpackMissingModule() { var e = new Error(\"Cannot find module './style/main.scss'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n\r\n\r\nconsole.log((0,_generateJokes__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\n\n//# sourceURL=webpack://webpack-starter/./src/index.js?");
 
 /***/ })
 
