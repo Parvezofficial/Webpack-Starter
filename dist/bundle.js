@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("I can't find any jokes in this game.")})();
